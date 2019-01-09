@@ -1,0 +1,19 @@
+{
+  "name": "lint-commit",
+  "version": "1.0.0",
+  "description": "lint-commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyi10year/lint-commit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyi10year/lint-commit/issues"
+  },
+  "homepage": "https://github.com/luyi10year/lint-commit#readme"
+}
